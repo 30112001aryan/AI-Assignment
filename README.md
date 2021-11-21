@@ -1,5 +1,8 @@
 # Deep Learning project assignment Saarthi.ai
 
+## Documentation
+In Deep Learning.pdf file above
+
 ## Dependencies
 PyTorch, torchaudio, numpy, soundfile, pandas, tqdm, textgrid.py
 
